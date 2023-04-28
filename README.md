@@ -27,7 +27,7 @@ seaborn
 
 ## Getting Started
 
-To get started, simply clone or download this repository to your local machine and open the Jupyter Notebook file (helicopter_prison_escapes.ipynb).
+To get started, simply clone or download this repository to your local machine and open the Jupyter Notebook file ['helicopter_prison_escapes.ipynb'](https://github.com/ZohraB612/Helicopter-Prison-Escapes/blob/main/helicopter_prison_escapes.ipynb).
 
 ## Conclusion
 
