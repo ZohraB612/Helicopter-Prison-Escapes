@@ -12,11 +12,11 @@ Are you curious about attempted helicopter prison escapes around the world? Look
 
 👑 Which escapees have done it more than once?
 
-Data Source
+## Data Source
 
 The data for this project was sourced from Wikipedia.
 
-Requirements
+## Requirements
 
 To run this notebook, you need to have the following Python packages installed:
 
@@ -24,10 +24,11 @@ pandas
 numpy
 matplotlib
 seaborn
-Getting Started
+
+## Getting Started
 
 To get started, simply clone or download this repository to your local machine and open the Jupyter Notebook file (helicopter_prison_escapes.ipynb).
 
-Conclusion
+## Conclusion
 
 Are you ready to dive into the thrilling world of helicopter prison escapes? This notebook will provide you with an exciting journey through the data on this unique and rare type of escape. So fasten your seatbelts and get ready to take off!
