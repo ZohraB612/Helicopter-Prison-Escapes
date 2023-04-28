@@ -1,6 +1,7 @@
 # 🚁 Helicopter Prison Escapes 🚁
 
-Are you curious about attempted helicopter prison escapes around the world? Look no further! This Jupyter Notebook project analyzes data on helicopter prison escapes to answer some exciting questions, including:
+Are you curious about attempted helicopter prison escapes around the world? Look no further! 
+This Jupyter Notebook project analyzes data on helicopter prison escapes to answer some exciting questions, including:
 
 🔍 In which year did the most helicopter prison break attempts occur?
 
@@ -20,14 +21,14 @@ The data for this project was sourced from [Wikipedia](https://en.wikipedia.org/
 
 To run this notebook, you need to have the following Python packages installed:
 
-pandas
-numpy
-matplotlib
-seaborn
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 ## Getting Started
 
-To get started, simply clone or download this repository to your local machine and open the Jupyter Notebook file ['helicopter_prison_escapes.ipynb'](https://github.com/ZohraB612/Helicopter-Prison-Escapes/blob/main/helicopter_prison_escapes.ipynb).
+To get started, simply clone or download this repository to your local machine and open the Jupyter Notebook file [helicopter_prison_escapes.ipynb](https://github.com/ZohraB612/Helicopter-Prison-Escapes/blob/main/helicopter_prison_escapes.ipynb).
 
 ## Conclusion
 
